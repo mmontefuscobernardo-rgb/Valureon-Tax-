@@ -1,0 +1,6 @@
+{
+  "name": "Valureon Tax",
+  "description": "Landing page de alta conversão para Valureon Tax - Compra e Venda de Precatórios, Consultoria Tributária e Soluções para MEI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
